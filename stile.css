@@ -1,0 +1,18 @@
+.text__if{
+    width: 500px;
+    margin: 0 auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    background-color: yellow;
+    color: blue;
+}
+.text__else{
+    width: 500px;
+    margin: 0 auto;
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    background-color: #f2f2ff;
+    color: red;
+}
